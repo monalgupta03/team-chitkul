@@ -4,8 +4,13 @@ We are developing a blockchain-based decentralized platform aimed at verifying t
 
 Flow:
 -The signup page/dist/index.html opens up to signup page
+
 -Signup requires details as well as connect wallet.
+
 -The Connect wallet button redirects to metamask wallet page (if unavailable) or to the connect wallet (if available)
+
 -After connecting wallet it leads to a sign up botton which opens up the user dashboard.
+
 -User dashboard contains user details, SBTs applied/issued, job offers and network.
+
 -Similarly the employer profile/dist/index.html leads to the employer dashboard where the company details, SBT requests and HRs with account access is visible.
